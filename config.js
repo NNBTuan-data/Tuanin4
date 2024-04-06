@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Phản hồi của bạn đã được gửi đến Tuấn',
     messDesc: 'Cảm ơn bạn vì đã gửi phản hồi',
     btnAccept: 'Tuấn sẽ phản hồi bạn sớm nhất <3',
-    messLink: 'https://www.facebook.com/cua.tuan.94/'
+    messLink: 'https://www.instagram.com/_tuan_uwu/'
 }
